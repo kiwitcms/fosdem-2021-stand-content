@@ -1,3 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://stands.fosdem.org"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Kiwi TCMS"
+theme = "ananke"
