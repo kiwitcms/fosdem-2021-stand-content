@@ -1,4 +1,5 @@
 ---
+chatroom: kiwi
 description: |
 
     Kiwi TCMS is the leading open source test management system for both
