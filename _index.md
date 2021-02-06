@@ -58,7 +58,7 @@ new_this_year: |
         </li>
 
         <li>
-            Surpass <a href="https://hub.docker.com/v2/repositories/kiwitcms/kiwi/">400k downloads</a>
+            Nearly <a href="https://hub.docker.com/v2/repositories/kiwitcms/kiwi/">400k downloads</a>
             via Docker Hub
         </li>
     </ul>
