@@ -63,9 +63,10 @@ new_this_year: |
         </li>
     </ul>
 
+showcase: |
+
     <img src="/stands/kiwi_tcms/400k.png" alt="400k downloads from Docker Hub">
 
-showcase: |
     <p>
         Come to our stand to meet the team behind Kiwi TCMS and talk about
         testing, automation, software release management and anything in between!
