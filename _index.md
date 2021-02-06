@@ -15,6 +15,8 @@ description: |
     planning the workload of the QA team or answering questions like
     "How did we test this?" and "Why didn't we catch this bug before?"!
 
+    <img src="/stands/kiwi_tcms/400k.png" alt="400k downloads from Docker Hub">
+
 layout: stand
 logo: stands/kiwi_tcms/logo.png
 new_this_year: |
@@ -64,9 +66,6 @@ new_this_year: |
     </ul>
 
 showcase: |
-
-    <img src="/stands/kiwi_tcms/400k.png" alt="400k downloads from Docker Hub">
-
     <p>
         Come to our stand to meet the team behind Kiwi TCMS and talk about
         testing, automation, software release management and anything in between!
