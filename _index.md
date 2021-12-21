@@ -15,7 +15,7 @@ description: |
     planning the workload of the QA team or answering questions like
     "How did we test this?" and "Why didn't we catch this bug before?"!
 
-    <img src="/stands/kiwi_tcms/1m.png" alt="1m downloads from Docker Hub">
+    <img src="/stands/kiwi_tcms/banner.png" alt="1m downloads from Docker Hub">
 
 layout: stand
 logo: stands/kiwi_tcms/logo.png
