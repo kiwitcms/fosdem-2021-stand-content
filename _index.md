@@ -3,8 +3,8 @@ chatroom: kiwi
 description: |
 
     Kiwi TCMS is the leading open source test management system for both
-    manual & automated testing. It has been made by testers and licensed
-    under GPLv2.
+    manual & automated testing with over 1 million downloads.
+    It has been made by testers and licensed under GPLv2.
 
     Our mission is to transform the testing process by making
     it more organized, transparent & accountable for everyone on your team.
@@ -15,53 +15,47 @@ description: |
     planning the workload of the QA team or answering questions like
     "How did we test this?" and "Why didn't we catch this bug before?"!
 
-    <img src="/stands/kiwi_tcms/400k.png" alt="400k downloads from Docker Hub">
+    <img src="/stands/kiwi_tcms/1m.png" alt="1m downloads from Docker Hub">
 
 layout: stand
 logo: stands/kiwi_tcms/logo.png
 new_this_year: |
 
-    Since FOSDEM 2020 Kiwi TCMS managed to:
-
     <ul>
         <li>
-            Receive
-            <a href="https://kiwitcms.org/blog/kiwi-tcms-team/2020/03/27/kiwi-tcms-is-open-source-seed-award-winner/">
-                $10k open source seed award
-            </a> from Mozilla foundation
-        </li>
-
-        <li>
-            Start an <a href="https://github.com/kiwitcms/Kiwi/milestone/4">open source bounty program</a>
-            and <a href="https://kiwitcms.org/blog/tags/community/">partner with several organizations</a>
-            across the world
-        </li>
-
-        <li>
-            Become the first open source TCMS system on
+            Become Verified Publisher on
             <a href="https://github.com/marketplace/kiwi-tcms/">GitHub Marketplace</a>
         </li>
 
         <li>
-            Completely redesign our legacy user interface
+            Reached 10000 registrations on our
+            <a href="https://public.tenant.kiwitcms.org/">demo installation</a>
         </li>
 
         <li>
-            Add more integration with external bug tracking systems
-        </li>
-
-        <li>
-            Cancel confirmed conference participation on 3 continents :-(
-        </li>
-
-        <li>
-            Surpass 8000 registrations for our
-            <a href="https://public.tenant.kiwitcms.org/">public tenant installation</a>
-        </li>
-
-        <li>
-            Nearly <a href="https://hub.docker.com/v2/repositories/kiwitcms/kiwi/">400k downloads</a>
+            Reached <a href="https://hub.docker.com/v2/repositories/kiwitcms/kiwi/">1 million downloads</a>
             via Docker Hub
+        </li>
+
+        <li>
+            Took part in Major League Hacking OSS Fellowship program as mentor for 2 semesters
+        </li>
+
+        <li>
+            QGIS open source community started using Kiwi TCMS for their testing. Check-out
+            <a href="https://www.youtube.com/watch?v=Wob_L_SrEwE">video</a> for more info
+        </li>
+
+        <li>
+            /e/ Foundation open source community started using Kiwi TCMS for their testing and
+            started contributing to Kiwi TCMS as well
+        </li>
+
+        <li>
+            TesterTech YouTube channel created a number of videos about Kiwi TCMS. Check-out
+            <a href="https://www.youtube.com/watch?v=S7h4OG7aeFA&list=PLCrlcBRBAaTpQVUpbgs8jOM3-9VBwt_L1">
+            the playlist here
+            </a>
         </li>
     </ul>
 
@@ -77,7 +71,7 @@ showcase: |
         <h6>Saturday</h6>
         <ul class="list-unstyled">
             <li><b>entire day</b>: We're jointly running the
-                <a href="https://fosdem.org/2021/schedule/track/testing_and_automation/">Testing and Automation</a>
+                <a href="https://fosdem.org/2022/schedule/track/testing_and_automation/">Testing and Automation</a>
                 devroom with Linaro and SUSE. Responses may be delayed but we will reply!
             </li>
         </ul>
