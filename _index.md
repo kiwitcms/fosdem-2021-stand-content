@@ -33,7 +33,7 @@ new_this_year: |
         </li>
 
         <li>
-            Reached <a href="https://hub.docker.com/v2/repositories/kiwitcms/kiwi/">1 million downloads</a>
+            Reached <a href="https://hub.docker.com/v2/repositories/kiwitcms/kiwitcms/">1 million downloads</a>
             via Docker Hub
         </li>
 
@@ -89,7 +89,7 @@ showcase: |
 
     <ul class="list-unstyled">
         <li>
-            <a href="https://github.com/kiwitcms/Kiwi/stargazers">Give ⭐ on GitHub</a>
+            <a href="https://github.com/kiwitcms/kiwitcms/stargazers">Give ⭐ on GitHub</a>
         </li>
 
         <li>
